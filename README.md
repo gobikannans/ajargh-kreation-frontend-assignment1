@@ -1,4 +1,5 @@
-Front end Ecommerce Assignment
+Ajargh Creation
+Front end Assignment
 
 Install dependencies 
 ---npm install
@@ -6,6 +7,5 @@ Install dependencies
 start project
 --- npm start
 
-prototype Screenshots
 
-![IMG!](assets/readme screenshots/home.png)
+
